@@ -1,0 +1,6 @@
+{
+  "name": "AI 數據分析與洞察工具",
+  "description": "貼上 CSV 報表資料，即可利用 Google Gemini AI 進行全面的數據分析，生成結構化的洞察報告與商業改進建議。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
